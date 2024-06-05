@@ -1,4 +1,4 @@
 __pycache__
 .env
 .learn
-random_forest_regressor_default_42.sav
+boosting_classifier_nestimators-20_learnrate-0.001_42.sav
